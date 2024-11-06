@@ -1,0 +1,9 @@
+Question,Option A,Option B,Option C,Option D,Correct Option
+"Solve x: $2x + 3 = \frac{x - 1}{2}$", "$\frac{-7}{3}$", "$\frac{9}{2}$", "2", "6", "A"
+"Solve x: $8x - 6 = 3(2x + 1)$", "$\frac{-7}{3}$", "$\frac{9}{2}$", "2", "6", "B"
+"Solve x: $\frac{3x + 2}{4} = 2$", "$\frac{-7}{3}$", "$\frac{9}{2}$", "2", "6", "C"
+"Solve x: $\frac{5x}{3} = x + 4$", "$\frac{-7}{3}$", "$\frac{9}{2}$", "2", "6", "D"
+"Solve x: $7x + 5 = \frac{4x + 1}{2}$", "$\frac{-9}{10}$", "-5", "$\frac{-20}{7}$", "$\frac{13}{3}$", "A"
+"Solve x: $4(x - 2) = 2(3x + 1)$", "$\frac{-9}{10}$", "-5", "$\frac{-20}{7}$", "$\frac{13}{3}$", "B"
+"Solve x: $\frac{2x - 5}{3} - \frac{3x + 2}{4} = \frac{x - 1}{2}$", "$\frac{-9}{10}$", "-5", "$\frac{-20}{7}$", "$\frac{13}{3}$", "C"
+"Solve x: $\frac{x + 2}{5} + \frac{x - 3}{2} = 4 - \frac{x + 1}{3}$", "$\frac{-9}{10}$", "-5", "$\frac{-20}{7}$", "$\frac{13}{3}$", "D"
